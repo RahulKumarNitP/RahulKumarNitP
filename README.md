@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin2jordan&label=Profile%20views&color=0e75b6&style=flat" alt="kevin2jordan" /> </p>
 
-- 💬 Ask me about **System Design(High level, low level), Microservices**
+- 💬 Ask me about **System Design(High level, low level), Microservices, Data structure and algorithms, Cloud services(AWS, OCI) **
 
 - 📫 How to reach me **rahulkumar.nitpatna@gmail.com**
 
