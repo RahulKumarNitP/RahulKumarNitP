@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin2jordan&label=Profile%20views&color=0e75b6&style=flat" alt="kevin2jordan" /> </p>
 
-- 💬 Ask me about **System Design(High level, low level), Microservices, Data structure and algorithms, Cloud services(AWS, OCI) **
+- 💬 Ask me about **System Design(High level, low level), Microservices, Data structure and algorithms, Cloud services(AWS, OCI)**
 
 - 📫 How to reach me **rahulkumar.nitpatna@gmail.com**
 
